@@ -1,6 +1,6 @@
 # Christoph Cox - History of Sound Art
 ## Απομαγνητοφώνηση 51:40-59:40
-###[...The Sonic Turn...]
+### [...The Sonic Turn...]
 There was a kind of broad turn towards sound in the Academy and also in the visual and sonic arts. 
 So, just an image of a bunch of books that came out right around the, kind of, turn of the millenium, by anthropologists, by sociologists, by historians, who try to think of the history of sound, try to situate sound as a kind of marker of cultural and temporal difference. 
 Right around the same time, sound art as an entity came to be something that was embraced by curators, maybe a less so by artists, and presented in a bunch of survey exhibitions, again just a quick list of some important survey exhibitions from around the sort of turn of the milenium in Berlin, in London, in New York, in Tokyo, in Paris. 
