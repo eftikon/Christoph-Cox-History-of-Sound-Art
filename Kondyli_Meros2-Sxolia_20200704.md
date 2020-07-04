@@ -1,7 +1,6 @@
 # Διαδραστικός Ηχητικός Σχεδιασμός
-# Εργασία 2: Μελέτη για την Τέχνη Ήχου
-## Μέρος 2 - Σχόλια
-### Κονδύλη Ευτυχία Μαρία - ADA2019007
+## Εργασία 2: Μελέτη για την Τέχνη Ήχου
+### Μέρος 2 - Σχόλια
 
 **1. [00:38:18]**
 _**I don’t think it’s coincidental that sound installation emerged during precisely the years that the art world witnessed what Lucy Lippard called “The dematerialization of the art object”.**_
